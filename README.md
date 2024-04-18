@@ -100,7 +100,8 @@ predict(w1,w2,test)
 ```
 <H3>Output:</H3>
 
-![Screenshot 2024-04-14 155659](https://github.com/Gopika-9266/Ex-3-NN/assets/122762773/1e900fcc-0c2b-49f8-b5a4-f040f76bdc22)
+![download](https://github.com/J-Nisha/Ex-3-NN/assets/150008724/414e6d1b-0782-4643-a4b4-276958c9c5b1)
+
 
 
 <H3> Result:</H3>
